@@ -1,0 +1,25 @@
+{
+  "name": "house-style-lint",
+  "displayName": "Style Lint",
+  "icon": "./.claude-plugin/icon.svg",
+  "version": "0.1.0",
+  "description": "Holds Claude to your writing rules: banned words and characters are caught before they reach your files.",
+  "author": {
+    "name": "Rama Krishna Bachu"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/ramankrishna/house-style-lint",
+  "repository": "https://github.com/ramankrishna/house-style-lint",
+  "documentationUrl": "https://github.com/ramankrishna/house-style-lint#readme",
+  "supportUrl": "https://github.com/ramankrishna/house-style-lint/issues",
+  "privacyPolicyUrl": "https://github.com/ramankrishna/house-style-lint/blob/main/PRIVACY.md",
+  "termsOfServiceUrl": "https://github.com/ramankrishna/house-style-lint/blob/main/LICENSE",
+  "keywords": [
+    "mod",
+    "writing",
+    "style",
+    "lint",
+    "copy"
+  ],
+  "types": "./types/index.d.ts"
+}

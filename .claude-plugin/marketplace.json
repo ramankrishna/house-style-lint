@@ -1,0 +1,14 @@
+{
+  "name": "ramankrishna-house-style-lint",
+  "description": "Style Lint, a mod for Claude Code by Rama Krishna Bachu.",
+  "owner": {
+    "name": "Rama Krishna Bachu"
+  },
+  "plugins": [
+    {
+      "name": "house-style-lint",
+      "source": "./",
+      "description": "Holds Claude to your writing rules: banned words and characters are caught before they reach your files."
+    }
+  ]
+}
